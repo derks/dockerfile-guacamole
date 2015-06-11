@@ -1,0 +1,6 @@
+This image has been modified from the original so that it attempts to
+use file based authentication rather than mysql.  Run it with volume 
+pointing at a directory that has a user-mapping.xml file.
+
+Also, the inconsolata fonts have been added to this image.
+
